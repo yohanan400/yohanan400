@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yohanan400
+- 👋 Hi, I’m Yakir Yohanan @yohanan400
 - 👀 I’m software development
 - 🌱 I’m currently learning Software engineering at jerusalem
 - 📫 You can reach me at my linkedin or email:
